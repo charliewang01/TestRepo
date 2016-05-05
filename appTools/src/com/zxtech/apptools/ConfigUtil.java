@@ -7,7 +7,7 @@ import java.util.Properties;
 //Develop Branch Push test by Xiaofu at 09:23
 /**
  * ¸µÌÚóÏ
- * @author solar AliyunTest
+ * @author solar AliyunTest CharlieWong
  *
  */
 
